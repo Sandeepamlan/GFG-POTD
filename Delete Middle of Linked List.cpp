@@ -1,4 +1,7 @@
-class Solution{
+/* Delete Middle of Linked List [Easy]   */
+
+
+    class Solution{
     public:
     Node* deleteMid(Node* head)
     {
