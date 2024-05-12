@@ -1,6 +1,6 @@
 /*    Juggler Sequence  [EASY]  */
 
-class Solution {
+class Solution { 
   public:
     vector<long long> jugglerSequence(long long n) {
         // code here
